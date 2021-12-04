@@ -1,0 +1,1 @@
+let getLaserSetting = () => "OFF";
